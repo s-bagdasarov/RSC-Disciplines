@@ -21,6 +21,7 @@ This project leverages open-source state-of-the-art LLMs to assign discipline la
 
 ## Key Results
 These models were selected out of eight LLMs of different families and sizes. The exact procedure for model testing and selection as well as for generation of discipline labels is described in
+
 The three selected models achieved 82% classification accuracy on a human-annotated subset of the corpus. Applied to the whole corpus, full agreement was achieved for 76.8% of papers and partial agreement (two LLMs outputting the same label) was achieved for 98.3% of the papers. In 160 cases (out of 47 815, approx 0.33%), one of the models generated invalid responsed, which were replaced with "No Answer" label in the final version of the dataset.
 
 Discipline labeles are contained in the *rsc_disciplines.tsv* file which is structured as follows:
