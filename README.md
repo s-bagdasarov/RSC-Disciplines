@@ -43,7 +43,7 @@ The RSC can be accessed at https://fedora.clarin-d.uni-saarland.de/rsc_v6/. For 
 
 If you use this dataset in your research, please cite:
 
-* Sergei Bagdasarov, Diego Alves, Stefan Fischer, and Elke Teich. 2026. Using LLMs for Automatic Discipline Annotation in a Diachronic Corpus of English Scientific Papers. In Proceedings of the Fifteenth Language Resources and Evaluation Conference, pages 2376–2386, Palma de Mallorca, Spain. ELRA Language Resource Association.
+* Sergei Bagdasarov, Diego Alves, Stefan Fischer, and Elke Teich. 2026. Using LLMs for Automatic Discipline Annotation in a Diachronic Corpus of English Scientific Papers. In Proceedings of the Fifteenth Language Resources and Evaluation Conference, pages 2376–2386, Palma de Mallorca, Spain. ELRA Language Resource Association. https://aclanthology.org/2026.lrec-1.187/
 
 Please also cite the original RSC dataset:
 
